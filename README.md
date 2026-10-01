@@ -1,0 +1,2 @@
+# stookbarang
+adminitrasi
